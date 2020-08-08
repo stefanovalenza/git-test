@@ -2,4 +2,4 @@
 git-test
 
 # Copyright
-Git training. really.
+Git training. none.
