@@ -2,4 +2,4 @@
 git-test
 
 # Copyright
-bah then more changes from myfeature branch
+Git training.
